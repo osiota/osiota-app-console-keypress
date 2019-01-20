@@ -1,0 +1,14 @@
+{
+	"app": [{
+		"name": "console-keypress",
+		"config": {
+			"app": [{
+				"name": "console-keypress/rpc-accesskey",
+				"config": {}
+			}]
+		}
+	},{
+		"name": "console-keypress/test-rpc-accesskey",
+		"config": {}
+	}]
+}
