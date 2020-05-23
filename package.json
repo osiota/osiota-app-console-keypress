@@ -1,7 +1,8 @@
 {
-  "name": "er-app-console-keypress",
+  "name": "osiota-app-console-keypress",
   "version": "1.0.0",
-  "description": "",
+  "description": "This application collects keypress events from the console.",
   "main": "index.js",
-  "author": "Simon Walz"
+  "author": "Simon Walz and others",
+  "license": "MIT"
 }

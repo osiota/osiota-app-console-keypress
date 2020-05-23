@@ -1,0 +1,8 @@
+{
+	"$schema": "http://json-schema.org/draft/2019-09/schema#",
+	"type": "object",
+	"title": "osiota application console-keypress",
+	"description": "After a keypress event of the main application, this sub application calls rpc functions of other applications dependant on their accesskey information.\n\nThe sub application needs to be configured as child of the main application:\n\n```json\n{\n    \"name\": \"console-keypress\",\n    \"config\": {\n        \"app\": [{\n            \"name\": \"console-keypress/rpc-accesskey\",\n            \"config\": {\n            }\n        }]\n    }\n}\n```\n",
+	"properties": {
+	}
+}
