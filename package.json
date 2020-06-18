@@ -1,8 +1,12 @@
 {
   "name": "osiota-app-console-keypress",
   "version": "1.0.0",
-  "description": "This application collects keypress events from the console.",
+  "description": "This application collects keypress events from the console",
   "main": "index.js",
   "author": "Simon Walz and others",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osiota/osiota-app-console-keypress.git"
+  }
 }
