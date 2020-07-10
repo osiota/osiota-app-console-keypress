@@ -8,9 +8,7 @@
 
 This application collects keypress events from the console.
 
-**Properties: None**
-
-
+**No properties.**
 
 ## Configuration: console-keypress/rpc-accesskey
 
@@ -32,9 +30,7 @@ The sub application needs to be configured as child of the main application:
 }
 ```
 
-**Properties: None**
-
-
+**No properties.**
 
 ## How to setup
 
