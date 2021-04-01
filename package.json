@@ -8,5 +8,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/osiota/osiota-app-console-keypress.git"
+  },
+  "scripts": {
+    "doc": "osiota-dev-doc-jsonschema --schema schema.json --app $npm_package_name"
+  },
+  "devDependencies": {
+    "osiota-dev": "^1.x"
   }
 }
